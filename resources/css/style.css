@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.title-page{
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+  color: white;
+}
+
+.link-download{
+  color: Aquamarine;
+  font-size: 16px;
+}
