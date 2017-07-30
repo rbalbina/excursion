@@ -14,4 +14,21 @@ body{
 .link-download{
   color: Aquamarine;
   font-size: 16px;
+  display: block;
+}
+
+.title-bottom-cell, .OS{
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.excursion-text{
+  font-size: 21px;
+  color: gray;
+}
+
+.rodape{
+  color: gray;
+  text-align: right;
 }
